@@ -1,5 +1,5 @@
 # Harjoitustyö3 - Paikkatiedon käsittely #
-
+#### Oskar Kotala, Heikki Lähdesmäki ####
 
 
 #### Johdanto ####
